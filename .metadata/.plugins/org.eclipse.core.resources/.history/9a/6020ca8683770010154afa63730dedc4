@@ -1,0 +1,3 @@
+spring.application.name=backend-project
+
+logging.level.root=TRACE

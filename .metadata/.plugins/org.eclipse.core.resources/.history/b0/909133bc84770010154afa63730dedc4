@@ -1,0 +1,5 @@
+spring.application.name=backend-project
+
+#logging.level.root=TRACE
+
+logging.level.com.cfn.main=TRACE
