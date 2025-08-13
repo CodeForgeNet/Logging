@@ -1,0 +1,14 @@
+13/08/2025 19:04:33.809 [main] INFO  c.cfn.main.BackendProjectApplication - Starting BackendProjectApplication using Java 21.0.7 with PID 72953 (/Users/karansingh/Desktop/Logging/backend-project/target/classes started by karansingh in /Users/karansingh/Desktop/Logging/backend-project)
+13/08/2025 19:04:33.810 [main] DEBUG c.cfn.main.BackendProjectApplication - Running with Spring Boot v3.5.4, Spring v6.2.9
+13/08/2025 19:04:33.810 [main] INFO  c.cfn.main.BackendProjectApplication - No active profile set, falling back to 1 default profile: "default"
+13/08/2025 19:04:34.279 [main] INFO  c.cfn.main.BackendProjectApplication - Started BackendProjectApplication in 0.668 seconds (process running for 0.958)
+13/08/2025 19:04:38.370 [http-nio-8080-exec-1] INFO  c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:38.370 [http-nio-8080-exec-1] DEBUG c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:38.370 [http-nio-8080-exec-1] ERROR c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:38.370 [http-nio-8080-exec-1] TRACE c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:38.370 [http-nio-8080-exec-1] WARN  c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:51.044 [http-nio-8080-exec-2] INFO  c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:51.047 [http-nio-8080-exec-2] DEBUG c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:51.048 [http-nio-8080-exec-2] ERROR c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:51.048 [http-nio-8080-exec-2] TRACE c.c.main.controllers.HomeController - This is api calling karan
+13/08/2025 19:04:51.048 [http-nio-8080-exec-2] WARN  c.c.main.controllers.HomeController - This is api calling karan
